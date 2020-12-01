@@ -1,0 +1,3 @@
+# python req for building sdk
+wheel
+urllib3
