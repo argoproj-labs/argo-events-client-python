@@ -1,3 +1,5 @@
+⚠️⚠️⚠️This repository is no longer maintained, please find your Java SDKs https://github.com/argoproj/argo-workflows/blob/master/docs/client-libraries.md ⚠️⚠️⚠️
+
 # argo-events python client
 
 This is a work in progress. Generated against argo-events 1.1.0
